@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/cdf84820-9dfe-4971-b7db-fc27647ab0f3/appservices/subscriptions/cdf84820-9dfe-4971-b7db-fc27647ab0f3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/rensbrilClientChatServerTest",
+  "appService.deploySubpath": "."
+}
